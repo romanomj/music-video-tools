@@ -13,7 +13,7 @@ with having two colors simultaneously.
 ### Usage
 $ python audio_to_video.py
 ```shell
-Filename: ..\sample.mp3
+Filename: sample.mp3
 Need to process 225100 frames
 Start color offset [0|1]: 0
 Total Counts:  409

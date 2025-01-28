@@ -24,7 +24,8 @@ MoviePy - Done !
 MoviePy - video ready audio_visualization.webm
 ```
 
-This script generates files such as <a href="sample/sample.webm" alt="Sample output">
+This script generates files such as [sample/sample.gif](https://github.com/romanomj/music-video-tools/blob/main/sample/sample.gif?raw=true)
+<br /><img src="https://github.com/romanomj/music-video-tools/blob/main/sample/sample.gif?raw=true" />
 
 ## Examples
 I use this in tandem with a background video, and the originating audio file to generate videos like these:
